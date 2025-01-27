@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NimaSaminasab
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning java
+- 🌱 I’m currently working on Poeysh-Mehrabani project
 - 💞️ I’m looking to collaborate on ...
 - 📫 saminasab.nima@gmail.com
 
